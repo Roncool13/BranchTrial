@@ -9,4 +9,4 @@ thirsty = raw_input("Are you thirsty?")
 
 if thirsty.lower() == "yes" or thirsty.lower() =="y":
     print("Drink Milk")
-    
+    print("Drink Water")
